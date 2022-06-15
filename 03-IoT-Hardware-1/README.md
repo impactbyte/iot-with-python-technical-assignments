@@ -13,11 +13,8 @@ Mohon menjawab pertanyaan yang ada dibawah ini, untuk menjawabnya kalian dapat *
 
 ## Pertanyaan
 
-1. Menggunakan kirchoff voltage Law, tentukanlah 
-    1. Voltase pada resistor 20Ω dan 
-    2. Voltase pada resistor 10Ω
+1. Buatlah sebuah rangkaian listrik menggunakan konsep voltage divider, dimana diberikan Vin = 5v dan Vout = 3.3V! ( Sertakan gambar schematic pada jawabannya! )
 
-![Untitled](https://skilvul-prod-01.s3.ap-southeast-1.amazonaws.com/lesson/iot/IoT+Assignments+Assets/IoT+Hardware/kvl_quiz.png)
 
 2. Berapakah $VR2$ pada rangkaian berikut?
 
