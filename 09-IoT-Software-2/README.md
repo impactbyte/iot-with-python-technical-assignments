@@ -9,7 +9,7 @@ Mohon menjawab pertanyaan yang ada dibawah ini, untuk menjawabnya kalian dapat m
 
 
 Buatlah sebuah node-red flow dengan kondisi berikut
-* Dapatkan data sensor ultrasonic/menggunakan sensor yang ada/yang kalian pakai untuk project kalian dan kirimkan ke sebuah mqtt broker
+* Dapatkan data sensor ultrasonic/menggunakan sensor yang ada/yang kalian pakai untuk project kalian dan kirimkan ke sebuah mqtt broker ( Menggunakan Script Python! )
 * Subscribe menggunakan node-red mqtt-in nodes dan 
 * Tampilkan data sensor dalam sebuah dashboard (minimal 2 buah visualisasi, contohnya grafik & gauge)!
 
